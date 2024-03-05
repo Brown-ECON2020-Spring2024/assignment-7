@@ -1,3 +1,9 @@
+output/data/*
+output/models/*
+
+!output/data/.gitkeep
+!output/models/.gitkeep
+
 # History files
 .Rhistory
 .Rapp.history
